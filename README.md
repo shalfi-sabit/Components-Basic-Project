@@ -1,0 +1,4 @@
+- Learned about component basics
+- Passing props
+- Children props
+- Use cases for wrapper props
